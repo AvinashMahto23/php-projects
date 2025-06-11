@@ -1,0 +1,1 @@
+<? echo "hello world class 2"?>
